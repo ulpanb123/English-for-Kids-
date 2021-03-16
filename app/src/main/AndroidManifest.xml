@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.englishforkids">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EnglishForKids">
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".ActionsActivity1" />
+        <activity android:name=".ClothesActivity1" />
+        <activity android:name=".ColorsActivity1" />
+        <activity android:name=".FamilyActivity1" />
+        <activity android:name=".FeelingsActivity1" />
+        <activity android:name=".FreeTimeActivity1" />
+        <activity android:name=".NumbersActivity1" />
+        <activity android:name=".RoutinesActivity1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

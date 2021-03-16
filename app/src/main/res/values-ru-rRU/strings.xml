@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English for Kids!</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="name">Имя</string>
+    <string name="select_your_age">Выбери возраст:</string>
+    <string name="start">ВХОД</string>
+    <string name="change_language">Поменять язык?</string>
+    <string name="toastMessage_language">Настройки > Язык и ввод > Язык  > English</string>
+    <string name="chooseTest">"Выбери тест, "</string>
+    <string name="guess_the_word_picture">Угадай что изображено на картинке:</string>
+    <string name="check">Нажми чтобы увидеть ответ</string>
+    <string name="answer">Нажми чтобы увидеть ответ</string>
+    <string name="share">Поделиться</string>
+</resources>

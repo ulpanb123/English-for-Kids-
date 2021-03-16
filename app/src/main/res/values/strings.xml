@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">English for Kids!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="name">Name</string>
+    <string name="select_your_age">Select your age:</string>
+    <string name="start">START</string>
+    <string name="change_language">Change language?</string>
+    <string name="toastMessage_language">Settings > Language and input > Language > Русский</string>
+    <string name="chooseTest">"Choose the test, "</string>
+    <string name="guess_the_word_picture">Guess the word in the picture below:</string>
+    <string name="answer">Click to see the answer</string>
+    <string name="share">Share with friends?</string>
+
+    <string-array name="testsArray">
+        <item>Actions</item>
+        <item>Daily Routines</item>
+        <item>Clothes-Accessories</item>
+        <item>Colors</item>
+        <item>Numbers</item>
+        <item>Family</item>
+        <item>Free time</item>
+        <item>Emotions and Feelings</item>
+    </string-array>
+</resources>
